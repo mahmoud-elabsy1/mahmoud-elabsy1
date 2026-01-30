@@ -1,57 +1,81 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
-  
-  # Hi there, I'm Mahmoud Elabsy! 👋
-  
-  **BIS Senior Student | Aspiring Backend Developer | Logic & Algorithms Enthusiast**
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-elabsy) 
-  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/mahmoud-elabsy1)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hi,+I'm+Mahmoud+Elabsy!+%F0%9F%91%8B;Backend+Developer+(Node.js);HRIT+Leader+%26+Team+Player;CS50+Graduate+%7C+Problem+Solver;Building+Scalable+Systems..." alt="Typing SVG" />
+  </a>
+
+  <br>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mahmoud-elabsy1&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="mahmoud-elabsy1" />
+  </a>
+  <br>
 
 </div>
 
 ---
 
-### 🚀 About Me
+### 👨‍💻 About Me
 
-I am a final-year **Business Information Systems (BIS)** student with a deep passion for what happens *behind the scenes* (Backend). My journey started with **C++**, where I built a strong logical foundation ("The Gym"), and now I am pivoting to the **Node.js Ecosystem** to build scalable web applications.
+> **"Technically Strong, Managerially Skilled."**
 
-- 🔭 I’m currently working on: **Mastering Node.js & Advanced JavaScript**.
-- 🌱 I’m currently learning: **Data Structures & Algorithms**.
-- 💡 I love: **Clean Code, Architecture, and Solving Puzzles**.
-- 🎓 Goal: **To become a proficient Backend Engineer.**
+I am a final-year **Business Information Systems (BIS)** student with a unique blend of technical and soft skills. My journey started with **CS50** and deeply mastering **C++ & Algorithms** ("The Gym"), and now I am pivoting to **Node.js Backend Engineering**.
+
+Beyond code, I am the **HRIT Leader** and a volunteer at **Sanad Youth of Delta**, where I honed my leadership and HR skills. I don't just build software; I understand the *people* and the *business* behind it.
+
+- 🔭 I’m currently building: **Scalable APIs with Express.js**.
+- 🎓 Certified in: **CS50**, **Algorithms (Level 1 & 2)**, **C++ Foundations**.
+- ⚡ **Key Strength:** Combining **Complex Logic** (Programming) with **Team Management** (HR).
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Technical Arsenal
 
 <div align="center">
 
-| Core | Backend (Learning) | Tools |
+| Core & Logic | Backend Tech | Tools & Version Control |
 | :---: | :---: | :---: |
-| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) <br> ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) <br> ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <br> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> | <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> <br> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" /> | <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> <br> <img src="https://img.shields.io/badge/visual%20studio%20code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> |
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 Certifications & Achievements
+
+| Certification | Organization | Focus Area |
+| :--- | :--- | :--- |
+| **CS50: Introduction to CS** | Harvard University | `Computer Science` `C` `Memory` |
+| **Algorithms & Problem Solving (L1 & L2)** | Programming Advices | `Logic` `Complexity` `Data Structures` |
+| **Programming using C++ (Level 1)** | Programming Advices | `Syntax` `Control Flow` `Functions` |
+| **Programming Foundations** | Programming Advices | `Core Concepts` `Flowcharts` |
+
+---
+
+### 🚀 Leadership & Volunteering
+
+* **HRIT Leader:** Leading teams and managing human resources within student activities, bridging the gap between tech and people.
+* **Volunteer at Sanad Youth of Delta (كيان سند شباب الدلتا):** Active member participating in social initiatives and community development.
+
+---
+
+### 📊 GitHub Stats & Streaks
 
 <div align="center">
 
-[![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmoud-elabsy1&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-elabsy1&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=mahmoud-elabsy1&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud-elabsy1&theme=radical&hide_border=true" height="180" alt="streak graph" />
 
 </div>
 
 ---
 
-### 🏆 Featured Works
+### 🔗 Connect With Me
 
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| **[LUGX Gaming](https://github.com/mahmoud-elabsy1/LUGX-Gaming-Website)** | A responsive gaming store landing page. | `HTML` `CSS` |
-| **[C++ Portfolio](https://github.com/mahmoud-elabsy1/programming-portfolio-cpp)** | A collection of complex logic puzzles & games. | `C++` `OOP` |
-| **JS Problem Solving** | My journey mastering JS Core (Type Coercion, Logic). | `JavaScript` |
+<div align="center">
+  <a href="https://www.linkedin.com/in/mahmoud-elabsy" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:mamoud.elabsy12@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+</div>
